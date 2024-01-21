@@ -1,0 +1,18 @@
+.beers-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    list-style: none;
+}
+
+.beer {
+    border: 1px solid #ccc;
+    text-align: center;
+    padding: 12px 24px;
+    border-radius: 8px;
+}
+
+.beer-image {
+    height: 200px;
+    
+}
